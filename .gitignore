@@ -1,0 +1,19 @@
+#https://github.com/github/gitignore
+
+# common ignores
+*~
+*.lock
+*.DS_Store
+*.swp
+*.out
+#*.bin
+*.docx
+*.pdf
+
+#intellij
+.idea/*
+bootstrap/.idea/*
+*.iml
+
+node_modules/
+.sass-cache/
