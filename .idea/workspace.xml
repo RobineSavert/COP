@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a47e2840-ed46-456e-a85e-6956451da3e9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/bg/allitems.jpg" afterPath="$PROJECT_DIR$/images/bg/allitems.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/build/bg/allitems.jpg" afterPath="$PROJECT_DIR$/img/build/bg/allitems.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/bg/arabian-collection.jpg" afterPath="$PROJECT_DIR$/images/bg/arabian-collection.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/build/bg/arabian-collection.jpg" afterPath="$PROJECT_DIR$/img/build/bg/arabian-collection.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/bg/free-spirit.jpg" afterPath="$PROJECT_DIR$/images/bg/free-spirit.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/build/bg/free-spirit.jpg" afterPath="$PROJECT_DIR$/img/build/bg/free-spirit.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/bg/gypsy-soul.jpg" afterPath="$PROJECT_DIR$/images/bg/gypsy-soul.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/build/bg/gypsy-soul.jpg" afterPath="$PROJECT_DIR$/img/build/bg/gypsy-soul.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/bg/silent-moon.jpg" afterPath="$PROJECT_DIR$/images/bg/silent-moon.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/build/bg/silent-moon.jpg" afterPath="$PROJECT_DIR$/img/build/bg/silent-moon.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="a47e2840-ed46-456e-a85e-6956451da3e9" name="Default" comment="" />
     <ignored path="COP.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
