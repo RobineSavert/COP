@@ -99,15 +99,5 @@ $(function(){
         return false;
     });
 
-})
-
-
-
-$('.arabian').hover(function(){
-    $(this).find('.element-soldout').fadeToggle(500);
-}),
-
-    $('.free-spirit').hover(function(){
-        $(this).find('.element-soldout').fadeToggle(500);
-    });
+});
 	

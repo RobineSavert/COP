@@ -6,11 +6,11 @@ module.exports = function(grunt) {
         concat: {
             dist: {
                 src: [
-                    'js/borderMenu.js',
                     'js/classie.js',
-                    'js/custom.js',
+                    'js/borderMenu.js',
                     'js/jquery.isotope.js',
-                    'js/borderMenu.js'
+                    'js/custom.js'
+
                 ],
                 dest: 'js/build/production.js'
             }
