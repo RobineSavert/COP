@@ -24,7 +24,6 @@
 .bt-menu.bt-menu-open {
 	height: 100%;
 	border-width: 0px 0px 50px 200px;
-	background-color: rgba(255,255,255,0.3);
 	-webkit-transition: border-width 0.3s, background-color #fff;
 	transition: border-width 0.3s, background-color 0.3s;
 }
@@ -207,15 +206,8 @@
 }
 
 .bt-menu ul li a:before {
-	color: #888888;
-	font-size: 24px;
+	color: #888;
 	-webkit-transition: color 0.2s;
 	transition: color 0.2s;
 }
 
-.bt-menu ul:first-of-type li a:hover,
-.bt-menu ul:first-of-type li a:focus,
-.bt-menu ul li a:hover:before,
-.bt-menu ul li a:focus:before {
-	color: #1abc9c;
-}
