@@ -78,29 +78,26 @@ body {
 }
 
 html {
-	  background: url(../../img/build/bg/allitems.jpg) no-repeat center center fixed;
+	  background-image: url(../../img/build/bg/allitems.jpg);
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-}
-
-
-html.arabian-collection { 
-  background: url(../../img/build/bg/arabian-collection.jpg) no-repeat center center fixed;
-}
-
-html.silent-moon { 
-  background: url(../../img/build/bg/silent-moon.jpg) no-repeat center center fixed;
-
-}
-
-html.free-spirit { 
-  background: url(../../img/build/bg/free-spirit.jpg) no-repeat center center fixed;
-}
-
-html.gypsy-soul { 
-  background: url(../../img/build/bg/gypsy-soul.jpg) no-repeat center center fixed;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  &.arabian-collection {
+    background-image: url(../../img/build/bg/arabian-collection.jpg);
+  }
+  &.silent-moon {
+  background-image: url(../../img/build/bg/silent-moon.jpg);
+  }
+  &.free-spirit {
+  background-image: url(../../img/build/bg/free-spirit.jpg);
+  }
+  &.gypsy-soul {
+    background-image: url(../../img/build/bg/gypsy-soul.jpg);
+  }
 }
 
 ul, ol {
